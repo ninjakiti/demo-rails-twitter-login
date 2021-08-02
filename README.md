@@ -1,0 +1,1 @@
+## Quick demo app - Sign in with Twitter using Devise, Omniauth in Ruby on Rails.
